@@ -16,7 +16,7 @@ plugins:
 - jekyll-feed
 - jekyll-gist
 - jekyll-paginate
-sidebar_home_link: true
+sidebar_home_link: false
 theme_colors:
   sidebar-bg-color: "#3A595C"
   sidebar-fg-color: "#EDEEF0"
