@@ -18,8 +18,8 @@ plugins:
 - jekyll-paginate
 sidebar_home_link: false
 theme_colors:
-  sidebar-bg-color: "#3A595C"
-  sidebar-fg-color: "#EDEEF0"
+  sidebar-bg-color: "#A78FA9"
+  sidebar-fg-color: "#CCCCCC"
   link-color: "#000000"
 sidebar-sticky: true
 layout-reverse: true
