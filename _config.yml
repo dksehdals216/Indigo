@@ -19,7 +19,7 @@ plugins:
 - jekyll-paginate
 sidebar_home_link: true
 theme_colors:
-  sidebar-bg-color: "#7CA8A9"
+  sidebar-bg-color: "#3A595C"
   sidebar-fg-color: "#EDEEF0"
   link-color: "#000000"
 sidebar-sticky: true
