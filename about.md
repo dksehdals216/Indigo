@@ -2,12 +2,11 @@
 layout: page
 title: About
 sidebar_link: true
+date: 
+sidebar_sort_order: 
+
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
-</p>
+This page was created by me to create and organize ideas, thoughts, and practice routines that I have and will accumulate regarding jazz.
 
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+If you have any questions, please email me at adominic022@gmail.com
