@@ -2,13 +2,13 @@
 markdown: kramdown
 highlighter: rouge
 title: The Jazz Resource Room
-tagline: A Jekyll theme
+tagline: ''
 description: You've got to dig it to dig it, You dig?
 url: https://example.com
 baseurl: ''
 author:
   name: Dominic A
-  url: ''
+  url: adominic022@gmail.com
 paginate: 5
 exclude:
 - README.md
