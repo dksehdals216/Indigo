@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Ideas
-category: ''
+category: Ideas
 
 ---
 Another sample category page.
