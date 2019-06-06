@@ -1,6 +1,7 @@
 ---
 layout: category
 title: Songs
+category: Songs
 
 ---
 Sample category page. You need to create a page for each category.
