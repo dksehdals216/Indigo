@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Ideas
-category: Post Formats
+category: ''
 
 ---
 Another sample category page.
