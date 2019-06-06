@@ -3,7 +3,7 @@ markdown: kramdown
 highlighter: rouge
 title: Mood Indigo
 tagline: A Jekyll theme
-description: You've got to dig it, You dig?
+description: You've got to dig it to dig it, You dig?
 url: https://example.com
 baseurl: ''
 author:
