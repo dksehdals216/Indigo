@@ -8,6 +8,7 @@ categories:
 - 'Songs '
 tags:
 - Jazz
+- Songs
 comments: false
 
 ---
