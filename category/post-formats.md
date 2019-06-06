@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Post Formats
+title: Ideas
 category: Post Formats
 
 ---
